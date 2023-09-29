@@ -1,9 +1,19 @@
 [
     {
-        "name" : "Lesson 1",
-        "createdDate": "2023/01/01",
-        "updatedDate": "2023/01/05",
-        "data" : "asdasdas"
+        "id": "123", 
+        
+        "uk" : {    
+            "name" : "Lesson 1 - Simple present",
+            "createdDate": "2023/01/01",
+            "updatedDate": "2023/01/05",
+            "data" : "Simple present"
+        },
+        "vi" : {    
+            "name" : "Bai 1 - Thì hiện tại đơn",
+            "createdDate": "2023/01/01",
+            "updatedDate": "2023/01/05",
+            "data" : "Thì hiện tại đơn"
+        }
     }
       
 ]
