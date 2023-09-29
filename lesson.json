@@ -1,7 +1,9 @@
-{
-    "name" : "Lesson 1",
-    "createdDate": "2023/01/01",
-    "updatedDate": "2023/01/05",
-    "data" : "asdasdas"
-  }
-  
+[
+    {
+        "name" : "Lesson 1",
+        "createdDate": "2023/01/01",
+        "updatedDate": "2023/01/05",
+        "data" : "asdasdas"
+    }
+      
+]
